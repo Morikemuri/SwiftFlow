@@ -1,11 +1,12 @@
-modLoader="javafml"
+﻿modLoader="javafml"
 loaderVersion="[36,)"
 license="All rights reserved"
 
 [[mods]]
     modId="swiftflow"
-    version="1.0.0"
+    version="1.0.1"
     displayName="SwiftFlow"
+    description="SwiftFlow mod for Minecraft 1.16.5"
     authors="Amiya, Gabrielsim"
 
 [[dependencies.swiftflow]]
