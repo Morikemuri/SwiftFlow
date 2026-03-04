@@ -8,15 +8,5 @@ Forge 1.16.5 inventory utility mod.
 - **Home** - toggles the mod on/off (shows status in chat)
 
 ## Install
-Drop  into .  
+Drop `swiftflow-1.0.0-forge-1.16.5.jar` into `.minecraft/mods`.  
 Requires Forge 1.16.5.
-
-## Config
-Optional: 
-
-
-## Authors
-Amiya, Gabrielsim
-
-## License
-All rights reserved
