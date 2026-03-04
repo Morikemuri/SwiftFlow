@@ -6,7 +6,6 @@ license="All rights reserved"
     modId="swiftflow"
     version="1.0.0"
     displayName="SwiftFlow"
-    description="Inventory scroll utility. Activated with Home key."
     authors="Amiya, Gabrielsim"
 
 [[dependencies.swiftflow]]
